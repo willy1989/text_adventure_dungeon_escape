@@ -1,0 +1,21 @@
+C:\Users\willy\source\repos\Text adventure\Text adventure\bin\Debug\Text adventure.exe.config
+C:\Users\willy\source\repos\Text adventure\Text adventure\bin\Debug\Text adventure.exe
+C:\Users\willy\source\repos\Text adventure\Text adventure\bin\Debug\Text adventure.pdb
+C:\Users\willy\source\repos\Text adventure\Text adventure\obj\Debug\Text adventure.csprojAssemblyReference.cache
+C:\Users\willy\source\repos\Text adventure\Text adventure\obj\Debug\Text adventure.csproj.CoreCompileInputs.cache
+C:\Users\willy\source\repos\Text adventure\Text adventure\obj\Debug\Text adventure.exe
+C:\Users\willy\source\repos\Text adventure\Text adventure\obj\Debug\Text adventure.pdb
+C:\Users\willy\source\repos\Text adventure\Text adventure 29-07\bin\Debug\Text adventure.exe.config
+C:\Users\willy\source\repos\Text adventure\Text adventure 29-07\bin\Debug\Text adventure.exe
+C:\Users\willy\source\repos\Text adventure\Text adventure 29-07\bin\Debug\Text adventure.pdb
+C:\Users\willy\source\repos\Text adventure\Text adventure 29-07\obj\Debug\Text adventure.csprojAssemblyReference.cache
+C:\Users\willy\source\repos\Text adventure\Text adventure 29-07\obj\Debug\Text adventure.csproj.CoreCompileInputs.cache
+C:\Users\willy\source\repos\Text adventure\Text adventure 29-07\obj\Debug\Text adventure.exe
+C:\Users\willy\source\repos\Text adventure\Text adventure 29-07\obj\Debug\Text adventure.pdb
+C:\Users\willy\Desktop\Dungeon escape\bin\Debug\Text adventure.exe.config
+C:\Users\willy\Desktop\Dungeon escape\bin\Debug\Text adventure.exe
+C:\Users\willy\Desktop\Dungeon escape\bin\Debug\Text adventure.pdb
+C:\Users\willy\Desktop\Dungeon escape\obj\Debug\Text adventure.csprojAssemblyReference.cache
+C:\Users\willy\Desktop\Dungeon escape\obj\Debug\Text adventure.csproj.CoreCompileInputs.cache
+C:\Users\willy\Desktop\Dungeon escape\obj\Debug\Text adventure.exe
+C:\Users\willy\Desktop\Dungeon escape\obj\Debug\Text adventure.pdb
